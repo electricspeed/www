@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/espeed
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://electricspeed.com
+  * I am espeed (https://keybase.io/espeed) on keybase.
+  * I have a public key with fingerprint 757D F83C 81EA 39D3 7FF8  CFFD 5D24 8053 C813 A32C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "757df83c81ea39d37ff8cffd5d248053c813a32c",
+            "host": "keybase.io",
+            "key_id": "5D248053C813A32C",
+            "uid": "b8f14892cf3fdf2de83856088c3e9400",
+            "username": "espeed"
+        },
+        "merkle_root": {
+            "ctime": 1402218019,
+            "hash": "07aaac596506ccfc343d6c5b3ff0c2a73e89124f9028a504f28b757d36e9f7c047bdb17bdf22db71df7ba6a5d81ab3f535408ac500b40aad9a0de196dd5c4b15",
+            "seqno": 15361
+        },
+        "service": {
+            "hostname": "electricspeed.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402224620,
+    "expire_in": 157680000,
+    "prev": "463b02c1ae70b3d85896b07e22f4c4169733654aa78b651ba9143bb4cc5aa644",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkntQVUUcxy9ooSWl+ELtgUdrzBD3nD17HkyZenEsExWBSg2ve/bsgQOXe673
+3KsiUiphRTYhgzqZzpijMlaEN61gwil5GWlqUGQ0kY/xQYCgYvKo6BzCGds/dnb3
+993v7/f57RaED3GEhlwYd7qr7lA8H3KyRXEkFj3Xls0ohprFxGYzxK1Tj99eeXAm
+ZWKZDJqlYJPG6EaUx1BpTLoZNaiJZtZQn6kbHksFYmAMx+RE23L7sqZ7UqnP69Nt
+L0ZEoqpJkEgsxVBWoahpEtE0FakcLwFkByCGHLEs0wzT/7+szICnS1etUxT3n95p
+6edAzmnFAgMBRdJYXpI5okFN1TiVSlBCApAkAqnMA2ALTeobRKKml1LVrjaT+jLc
+1OUzjAFk4tdtAcsDjmMlwMpWPdhMs/lEjDFBsoCAQIhGIA9VgSAFahogHBYhlWSW
+4zUZcBJGgNc4SbGpoUBlTSSAFxVVYa1J4zhVEVlVExUsYKRKLLZMEEQ8kKwEACg8
+wFiVMVApKwuqigivsMgCMOlqj2EVh6DA5thb3xqdULtsu2d30dyU+H06GSCMIUam
+ddHrM/wGMdxWOM3v98ba4P4sry1fSw8rrkEnl6J7VOvZ7n1XO9G9TeF4gQPRDF3n
+1X3UpdsKJAoSsIadh66xPHkBKoAjLKYiUKAqIUkWFCBSjtN4wrOCLEIoIB5jUVIE
+xCpYZnmoKDwhCGOB5+9Btfrvx6mWp6mnerA/4KNMztuhjwx1hIQ67r8v1P65jgeG
+j7z7nVvqRzoa7iQmPt2T0NCT/G7ngv7+JXMX9u19pnMfml3YAb6/3tZ8cNPwxsXd
+5vOfjzoyZUfXoaeWHplSdSphKt+8OHfaD/Hti37aP/uE/MR70wJDPgxZWbHxHT6Y
+sqojuWZ2WELqtqkbKsomlfbEbQnOaGDXXti+5+KSuuSPvlKdZa2pURd+G3HTefaT
+KxsK9pfsvf1yakVpGjzeetPVtLO5xzkXeSuPPxhYd2Z6PhzvvBER1V2/atP2vEW9
+4Zo/uT4neHT+5MYZWU3u+ZFRK2qCW6efdbi2LVuYMgwlhRUGGm9Oj28oVL5c+n7s
+6YUT/noyf8FDeWOT0FhQCs8HshaX1cbWViynK3ZW7jABiEgcNv5QbXNkx5bvutf/
+PGlyYtVRtrG1ofyqsXZP7sVN0Tsfm9XXc3jEybGzZjbU7VGFaVnhLbuPpbS9vryi
+fHNfhqcmPzDvrZLiUTlV/5wv7m/Jy/siyJyrvvRwbzk89uz6qsrfi5YxQdzVuu/U
+5abbB65Vle8ayrpHV5wZvuNA5Zmj30z8eDff1H7wTVT6Y+lnv9yZc/qlYwVFzrBX
+503+YC+TLW3+tnFre/eY8NLi1SvL+i+9Qpv+vnwjff/jM3fnahGRnekbyQQ3ga+Z
+SWfPvVi9dHRIYk/yrd7CPyPGXc+M/JUEa2qv9saZM8peED8tLzkxMW7YH1fGVN9a
+djAMzp/69aPXUpa/setf
+=ueF2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/espeed
+
+==================================================================
+
